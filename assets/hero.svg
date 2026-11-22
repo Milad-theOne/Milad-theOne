@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Code-inspired header: Make ideas real. A terminal window showing development experiments.">
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#070C16"/><stop offset=".61" stop-color="#101A2B"/><stop offset="1" stop-color="#102C32"/></linearGradient>
+  <radialGradient id="glow" cx="75%" cy="52%" r="55%"><stop stop-color="#13D7B2" stop-opacity=".16"/><stop offset="1" stop-color="#13D7B2" stop-opacity="0"/></radialGradient>
+  <linearGradient id="line" x1="0" x2="1"><stop stop-color="#4DE8D0"/><stop offset="1" stop-color="#B6FC6A"/></linearGradient>
+  <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#6C95A0" stroke-width=".65" opacity=".13"/></pattern>
+  <clipPath id="clip"><rect x="0" y="0" width="1200" height="440" rx="24"/></clipPath>
+  <filter id="blur" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="25"/></filter>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="440" fill="url(#bg)"/>
+<rect width="1200" height="440" fill="url(#grid)"/>
+<rect width="1200" height="440" fill="url(#glow)"/>
+<circle cx="1012" cy="226" r="200" fill="#22DDC0" opacity=".11" filter="url(#blur)"/>
+<path d="M 0 422 L 1200 422" stroke="#44D3BD" stroke-width="2" opacity=".28"/>
+<!-- top chrome -->
+<circle cx="49" cy="45" r="6" fill="#F77E80"/><circle cx="71" cy="45" r="6" fill="#F4C86C"/><circle cx="93" cy="45" r="6" fill="#5DD1A0"/>
+<text x="121" y="51" fill="#8798AA" font-family="monospace" font-size="17" letter-spacing="2">PROFILE / README.MD</text>
+<path d="M37 79H1165" stroke="#6B8EA0" stroke-opacity=".22"/>
+<!-- Intro label -->
+<rect x="53" y="111" width="194" height="32" rx="9" fill="#18363B" stroke="#2E857E" stroke-opacity=".58"/>
+<circle cx="72" cy="127" r="5" fill="#B4F26D"/>
+<text x="87" y="133" font-size="16" font-family="monospace" fill="#82EED7" font-weight="600">STATUS: BUILDING</text>
+<!-- expressive title -->
+<text x="49" y="222" font-size="82" font-family="DejaVu Sans, Arial, sans-serif" font-weight="800" fill="#F4F8FD" letter-spacing="-3">MAKE IDEAS</text>
+<text x="49" y="315" font-size="91" font-family="DejaVu Sans, Arial, sans-serif" font-weight="800" fill="url(#line)" letter-spacing="-4">REAL</text>
+<text x="285" y="315" font-size="91" font-family="DejaVu Sans, Arial, sans-serif" font-weight="800" fill="#AEF879">_<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.44;.5;.94;1" dur="1.6s" repeatCount="indefinite"/></text>
+<!-- punchline -->
+<text x="56" y="375" fill="#A1B5C5" font-size="21" font-family="DejaVu Sans, Arial, sans-serif">software engineering  <tspan fill="#58D9C9">/</tspan>  artificial intelligence  <tspan fill="#58D9C9">/</tspan>  curiosity</text>
+<!-- code panel -->
+<rect x="778" y="112" width="373" height="275" rx="17" fill="#0A111E" stroke="#497E7E" stroke-opacity=".62" stroke-width="1.6"/>
+<path d="M 778 161 H1151" stroke="#4E7185" stroke-opacity=".34"/>
+<circle cx="804" cy="137" r="5" fill="#FF867A"/><circle cx="822" cy="137" r="5" fill="#F9C96B"/><circle cx="840" cy="137" r="5" fill="#7FDCA7"/>
+<text x="872" y="143" fill="#91A5B8" font-size="14" font-family="monospace">milad.ts</text>
+<text x="799" y="191" fill="#5F7990" font-size="14" font-family="monospace">01</text>
+<text x="832" y="191" fill="#C68EF9" font-size="16" font-family="monospace">const</text>
+<text x="896" y="191" fill="#E5EEFB" font-size="16" font-family="monospace">mindset</text>
+<text x="983" y="191" fill="#7EDCD4" font-size="16" font-family="monospace">=</text>
+<text x="1005" y="191" fill="#E5EEFB" font-size="16" font-family="monospace">{</text>
+<text x="799" y="225" fill="#5F7990" font-size="14" font-family="monospace">02</text>
+<text x="855" y="225" fill="#9ADFF8" font-size="16" font-family="monospace">learn:</text>
+<text x="930" y="225" fill="#B4F26D" font-size="16" font-family="monospace">true,</text>
+<text x="799" y="259" fill="#5F7990" font-size="14" font-family="monospace">03</text>
+<text x="855" y="259" fill="#9ADFF8" font-size="16" font-family="monospace">build:</text>
+<text x="930" y="259" fill="#B4F26D" font-size="16" font-family="monospace">true,</text>
+<text x="799" y="293" fill="#5F7990" font-size="14" font-family="monospace">04</text>
+<text x="855" y="293" fill="#9ADFF8" font-size="16" font-family="monospace">repeat:</text>
+<text x="949" y="293" fill="#F7C781" font-size="16" font-family="monospace">"always"</text>
+<text x="799" y="327" fill="#5F7990" font-size="14" font-family="monospace">05</text>
+<text x="832" y="327" fill="#E5EEFB" font-size="16" font-family="monospace">};</text>
+<path d="M799 346H1129" stroke="#23354A"/>
+<text x="807" y="371" fill="#78DFCE" font-size="13" font-family="monospace">●  ready to experiment</text>
+<!-- decoration -->
+<path d="M730 166v172M723 166h15M723 338h15" stroke="#5DE3C7" stroke-opacity=".42" stroke-width="2"/>
+</g>
+</svg>
