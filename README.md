@@ -1,17 +1,16 @@
-
 <div align="center">
 
-<!-- ANIMATED HERO -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1020,50:0F766E,100:155E75&height=245&section=header&text=MAKE%20IDEAS%20REAL_&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=43&desc=%3C%20code%20%2F%20create%20%2F%20evolve%20%3E&descAlignY=66&descSize=20" alt="MAKE IDEAS REAL — animated developer header" />
+<!-- PIXEL ARCADE + NEURAL LAB: looping GIF hosted in this repository -->
+<img width="100%" src="./assets/arcade-neural-hero.gif" alt="Milad's Pixel Arcade + Neural Lab — animated pixel-art coder working at a neon desk" />
 
-<!-- LOOPING TERMINAL TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=20CBB7&center=true&vCenter=true&width=720&height=50&lines=%24+whoami+%3E+engineer+%2F+builder+%2F+learner;%24+cat+interests.txt+%3E+AI+%2B+code+%2B+brains;%24+git+commit+-m+%22keep+building%22;%24+status+%3E+always+learning" alt="Animated terminal introducing my interests" />
+<!-- LOOPING TERMINAL TYPING — external SVG service -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=720&height=50&lines=%24+whoami+%3E+engineer+%2F+builder+%2F+learner;%24+cat+interests.txt+%3E+AI+%2B+code+%2B+brains;%24+git+commit+-m+%22keep+building%22;%24+status+%3E+always+learning" alt="Animated terminal introducing my interests" />
 
 <br/>
 
 <a href="https://github.com/Milad-theOne"><img src="https://img.shields.io/badge/GitHub-Milad--theOne-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub Milad-theOne" /></a>
-<img src="https://img.shields.io/badge/Computer_Engineering-Urmia_University-134E4A?style=flat-square" alt="Computer Engineering at Urmia University" />
-<img src="https://img.shields.io/badge/Focus-AI_%26_Software-0F766E?style=flat-square" alt="AI and Software" />
+<img src="https://img.shields.io/badge/Computer_Engineering-Urmia_University-6D28D9?style=flat-square" alt="Computer Engineering at Urmia University" />
+<img src="https://img.shields.io/badge/Focus-AI_%26_Software-0891B2?style=flat-square" alt="AI and Software" />
 
 </div>
 
@@ -71,8 +70,8 @@ My work usually lives somewhere between **full-stack development, backend engine
 
 <div align="center">
 
-<!-- ANIMATED LEARNING HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:0F373B,100:115E59&height=146&section=header&text=FROM%20SYSTEMS%20TO%20INTELLIGENCE&fontSize=28&fontColor=F8FAFC&animation=fadeIn&fontAlignY=41&desc=CS%20foundations%20%2F%20AI%20systems%20%2F%20neuroscience&descAlignY=69&descSize=16" alt="Animated research direction header" />
+<!-- NEURAL LAB: pulsing research skill tree — loops continuously -->
+<img width="100%" src="./assets/neural-learning-lab.gif" alt="Animated skill tree: Operating Systems, Database Systems, Algorithms and Artificial Intelligence leading toward conceptual learning and computational neuroscience" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=900&color=A3E635&center=true&vCenter=true&width=720&height=48&lines=Operating+Systems+%26+Threads;Database+Systems+%26+SQL;Design+%26+Analysis+of+Algorithms;Artificial+Intelligence+%26+Search;Conceptual+Model+Training;Neuroscience+%26+Brain--Inspired+AI" alt="Animated list of topics I am studying" />
 
@@ -111,12 +110,10 @@ My work usually lives somewhere between **full-stack development, backend engine
 
 <div align="center">
 
-### `while (curious) { learn(); build(); repeat(); }`
+### `> while (curious) { learn(); build(); repeat(); }`
 
-<sub>Still learning. Still experimenting. Still building.</sub>
+<sub>🎮 GAME STATE: learning in progress • next level loading...</sub>
 
 <br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:155E75,50:0F766E,100:0B1020&height=95&section=footer" alt="Footer wave" />
 
 </div>
